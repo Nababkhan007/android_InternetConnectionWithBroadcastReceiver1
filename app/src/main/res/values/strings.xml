@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Network Checking</string>
+    <string name="offline_text">You are Offline…!</string>
+    <string name="online_text">You are Online…!</string>
+</resources>
